@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Testing Jenkins and Docker Integration" );
+        System.out.println( "Jenkins and Docker Integration" );
     }
 }
